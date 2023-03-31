@@ -21,10 +21,10 @@
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/MugheesMb/Pink-Girl.git
+$ git clone https://github.com/MugheesMb/breast-advoc.git
 
 # Go into the repository
-$ cd Pink-Girl
+$ cd breast-advoc
 
 # Open project in VS code
 $ code .
